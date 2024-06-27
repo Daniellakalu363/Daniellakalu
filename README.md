@@ -1,4 +1,5 @@
 Hi there👋
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Javascript,CSS,HTML. In 2020, . My interest in the React ecosystem led me to launch React Robins, a community for women and non-binary ReactJS developers.
 
 
 
